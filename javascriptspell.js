@@ -222,10 +222,10 @@ $(function () {
         document.getElementById("sent").innerHTML = '<img id = "picture" src="play.png">';
 
         var modelLetters = game.word.split('');
-
+        let toShow = ez?"":"hard";
         for (var i in modelLetters) {
             var letter = modelLetters[i];
-            $models.append('<li  class="inLet"><div class="letFont">' + letter + '</div></li>');
+            $models.append('<li  class="inLet"><div class="letFont '+toShow+' ">' + letter + '</div></li>');
         }
 
         // Set the letterwidth variable to the outwidth of the models combine
@@ -243,8 +243,9 @@ $(function () {
         //shuffles the letters in a random pile
         var shuffled = letters.sort(function () { return Math.random() < 0.5 ? -1 : 1 });
         // places the letters into the pile
+
         for (var i in shuffled) {
-            $letters.append('<li class="draggable letPlace ">' + shuffled[i] + '</li>');
+            $letters.append('<li class="draggable letPlace  ">' + shuffled[i] + '</li>');
         }
         // assigns values to the variables top and left
         $letters.find('li').each(function (i) {
