@@ -1,0 +1,19 @@
+{
+  "name": "spellingsoundgame",
+  "version": "1.0.0",
+  "description": "after cloning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolaya182/spellingSoundGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolaya182/spellingSoundGame/issues"
+  },
+  "homepage": "https://github.com/jolaya182/spellingSoundGame#readme"
+}

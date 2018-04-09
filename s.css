@@ -1,0 +1,74 @@
+#container{
+  text-align: center
+}
+#sent{
+  display: inline;
+  margin: auto;
+
+}
+.inLet{height: 20px;
+  display: block;
+  width: 50px;
+  border: 2px solid black;
+  text-transform: uppercase;
+  font-size: 20px;
+  border-radius: 4px;
+  text-align: center;
+  opacity: .7;
+  
+ background:white ;
+}
+.letterContainer{
+  display: inline-flex;
+  margin: 10px;
+
+
+}
+
+.modelContainer{
+  display: inline-flex;
+  margin: 10px;
+
+  
+}
+
+.letPlace{height: 20px;
+  display: block;
+  width: 50px;
+  border: 2px solid black;
+  text-transform: uppercase;
+  font-size: 20px;
+  border-radius: 4px;
+  text-align: center;
+  opacity: .7;  
+  
+  background: -webkit-linear-gradient(#fff, #ccc );
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25);
+
+}
+.letFont{
+  font-size: 20px;
+
+}
+
+
+li{
+  display: block;
+  margin: 10px;
+  list-style-type: none;
+}
+
+.navControl{
+  display: inline;
+  margin: 10px;
+ 
+}
+
+.hard{
+  display: none;
+}
+
+.hover{
+  background-color:black;
+  opacity: .5;
+}
