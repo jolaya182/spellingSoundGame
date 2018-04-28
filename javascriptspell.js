@@ -13,114 +13,114 @@
 
 
 var questions = [
-    { img: 'play.png', color: '#666600', word: 'airleak', sound: 'sounds/airLeak' },
-    { img: 'play.png', color: '#666600', word: 'airplantakeoff', sound: 'sounds/airPlanTakeOff' },
-    { img: 'play.png', color: '#666600', word: 'amusement', sound: 'sounds/amusement' },
-    { img: 'play.png', color: '#666600', word: 'anvilimpact', sound: 'sounds/anvilImpact' },
-    { img: 'play.png', color: '#666600', word: 'astronaut', sound: 'sounds/astronaut' },
-    { img: 'play.png', color: '#666600', word: 'axe', sound: 'sounds/axe' },
-    { img: 'play.png', color: '#666600', word: 'baby', sound: 'sounds/baby' },
-    { img: 'play.png', color: '#666600', word: 'ballonpop', sound: 'sounds/ballonPop' },
-    { img: 'play.png', color: '#666600', word: 'bats', sound: 'sounds/bats' },
-    { img: 'play.png', color: '#666600', word: 'bear', sound: 'sounds/bear' },
-    { img: 'play.png', color: '#666600', word: 'beer', sound: 'sounds/beer' },
-    { img: 'play.png', color: '#666600', word: 'bluejay', sound: 'sounds/blueJay' },
-    { img: 'play.png', color: '#666600', word: 'bomb', sound: 'sounds/bomb' },
-    { img: 'play.png', color: '#666600', word: 'boxing', sound: 'sounds/boxing' },
-    { img: 'play.png', color: '#666600', word: 'campfire', sound: 'sounds/campFire' },
-    { img: 'play.png', color: '#666600', word: 'canary', sound: 'sounds/canary' },
-    { img: 'play.png', color: '#666600', word: 'canopener', sound: 'sounds/canOpener' },
-    { img: 'play.png', color: '#666600', word: 'cardoor', sound: 'sounds/carDoor' },
-    { img: 'play.png', color: '#666600', word: 'cat', sound: 'sounds/cat' },
-    { img: 'play.png', color: '#666600', word: 'catMeow', sound: 'sounds/catMeow' },
-    { img: 'play.png', color: '#666600', word: 'chaingsaw', sound: 'sounds/chaingSaw' },
-    { img: 'play.png', color: '#666600', word: 'chicks', sound: 'sounds/chicks' },
-    { img: 'play.png', color: '#666600', word: 'click', sound: 'sounds/click' },
-    { img: 'play.png', color: '#666600', word: 'clothesdryer', sound: 'sounds/clothesDryer' },
-    { img: 'play.png', color: '#666600', word: 'congo', sound: 'sounds/congo' },
-    { img: 'play.png', color: '#666600', word: 'watch', sound: 'sounds/watch' },
-    { img: 'play.png', color: '#666600', word: 'cow', sound: 'sounds/cow' },
-    { img: 'play.png', color: '#666600', word: 'coyotecall', sound: 'sounds/coyoteCall' },
-    { img: 'play.png', color: '#666600', word: 'crickets', sound: 'sounds/crickets' },
-    { img: 'play.png', color: '#666600', word: 'crystal', sound: 'sounds/crystal' },
-    { img: 'play.png', color: '#666600', word: 'deskbell', sound: 'sounds/deskBell' },
-    { img: 'play.png', color: '#666600', word: 'dice', sound: 'sounds/dice' },
-    { img: 'play.png', color: '#666600', word: 'djscratching', sound: 'sounds/djScratching' },
-    { img: 'play.png', color: '#666600', word: 'dog', sound: 'sounds/dog' },
-    { img: 'play.png', color: '#666600', word: 'dogToy', sound: 'sounds/dogToy' },
-    { img: 'play.png', color: '#666600', word: 'dolphin', sound: 'sounds/dolphin' },
-    { img: 'play.png', color: '#666600', word: 'doorrustysound', sound: 'sounds/doorRustySound' },
-    { img: 'play.png', color: '#666600', word: 'duckMallard', sound: 'sounds/duckMallard' },
-    { img: 'play.png', color: '#666600', word: 'earthquake', sound: 'sounds/earthquake' },
-    { img: 'play.png', color: '#666600', word: 'elephant', sound: 'sounds/elephant' },
-    { img: 'play.png', color: '#666600', word: 'elk', sound: 'sounds/elk' },
-    { img: 'play.png', color: '#666600', word: 'ferrari', sound: 'sounds/ferrari' },
-    { img: 'play.png', color: '#666600', word: 'firetruck', sound: 'sounds/fireTruck' },
-    { img: 'play.png', color: '#666600', word: 'flock', sound: 'sounds/flock' },
-    { img: 'play.png', color: '#666600', word: 'forklift', sound: 'sounds/forkLift' },
-    { img: 'play.png', color: '#666600', word: 'frogs', sound: 'sounds/frogs' },
-    { img: 'play.png', color: '#666600', word: 'geese', sound: 'sounds/geese' },
-    { img: 'play.png', color: '#666600', word: 'glasspouring', sound: 'sounds/glassPouring' },
-    { img: 'play.png', color: '#666600', word: 'goat', sound: 'sounds/goat' },
-    { img: 'play.png', color: '#666600', word: 'hairdryer', sound: 'sounds/hairDryer' },
-    { img: 'play.png', color: '#666600', word: 'heartbeat', sound: 'sounds/heartBeat' },
-    { img: 'play.png', color: '#666600', word: 'helicopter', sound: 'sounds/helicopter' },
-    { img: 'play.png', color: '#666600', word: 'hippos', sound: 'sounds/hippos' },
-    { img: 'play.png', color: '#666600', word: 'horse', sound: 'sounds/horse' },
-    { img: 'play.png', color: '#666600', word: 'humpbackwhale', sound: 'sounds/humpbackWhale' },
-    { img: 'play.png', color: '#666600', word: 'hyenalaugh', sound: 'sounds/hyenaLaugh' },
-    { img: 'play.png', color: '#666600', word: 'icecube', sound: 'sounds/iceCube' },
-    { img: 'play.png', color: '#666600', word: 'iceskating', sound: 'sounds/iceSkating' },
-    { img: 'play.png', color: '#666600', word: 'ilovedaddy', sound: 'sounds/iLoveDaddy' },
-    { img: 'play.png', color: '#666600', word: 'jackHammer', sound: 'sounds/jackHammer' },
-    { img: 'play.png', color: '#666600', word: 'jingle', sound: 'sounds/jingle' },
-    { img: 'play.png', color: '#666600', word: 'kissing', sound: 'sounds/kissing' },
-    { img: 'play.png', color: '#666600', word: 'lightbulb', sound: 'sounds/lightbulb' },
-    { img: 'play.png', color: '#666600', word: 'lion', sound: 'sounds/lion' },
-    { img: 'play.png', color: '#666600', word: 'loon', sound: 'sounds/loon' },
-    { img: 'play.png', color: '#666600', word: 'microwave', sound: 'sounds/microWave' },
-    { img: 'play.png', color: '#666600', word: 'orca', sound: 'sounds/orca' },
-    { img: 'play.png', color: '#666600', word: 'paper', sound: 'sounds/paper' },
-    { img: 'play.png', color: '#666600', word: 'pelican', sound: 'sounds/pelican' },
-    { img: 'play.png', color: '#666600', word: 'pigsound', sound: 'sounds/pigSound' },
-    { img: 'play.png', color: '#666600', word: 'pingpong', sound: 'sounds/pingPong' },
-    { img: 'play.png', color: '#666600', word: 'policesiren', sound: 'sounds/policeSiren' },
-    { img: 'play.png', color: '#666600', word: 'radio', sound: 'sounds/radio' },
-    { img: 'play.png', color: '#666600', word: 'rex', sound: 'sounds/rex' },
-    { img: 'play.png', color: '#666600', word: 'rolldice', sound: 'sounds/rollDice' },
-    { img: 'play.png', color: '#666600', word: 'rooster', sound: 'sounds/rooster' },
-    { img: 'play.png', color: '#666600', word: 'seagullcall', sound: 'sounds/seagullCall' },
-    { img: 'play.png', color: '#666600', word: 'sewingmachine', sound: 'sounds/sewingMachine' },
-    { img: 'play.png', color: '#666600', word: 'skorpian', sound: 'sounds/skorpian' },
-    { img: 'play.png', color: '#666600', word: 'snake', sound: 'sounds/snake' },
-    { img: 'play.png', color: '#666600', word: 'splat', sound: 'sounds/splat' },
-    { img: 'play.png', color: '#666600', word: 'spooky', sound: 'sounds/spooky' },
-    { img: 'play.png', color: '#666600', word: 'stampede', sound: 'sounds/stampede' },
-    { img: 'play.png', color: '#666600', word: 'stantaclause', sound: 'sounds/stantaClause' },
-    { img: 'play.png', color: '#666600', word: 'staplegun', sound: 'sounds/stapleGun' },
-    { img: 'play.png', color: '#666600', word: 'thunderstorm', sound: 'sounds/thunderStorm' },
-    { img: 'play.png', color: '#666600', word: 'trafficejam', sound: 'sounds/trafficeJam' },
-    { img: 'play.png', color: '#666600', word: 'tundraswans', sound: 'sounds/tundraSwans' },
-    { img: 'play.png', color: '#666600', word: 'turkey', sound: 'sounds/turkey' },
-    { img: 'play.png', color: '#666600', word: 'whistle', sound: 'sounds/whistle' },
-    { img: 'play.png', color: '#666600', word: 'wolf', sound: 'sounds/wolf' },
-    { img: 'play.png', color: '#666600', word: 'woodpcker', sound: 'sounds/woodPecker' },
-    { img: 'play.png', color: '#666600', word: 'wrapper', sound: 'sounds/wrapper' },
-    { img: 'play.png', color: '#666600', word: 'Zebracall', sound: 'sounds/ZebraCall' },
-    { img: 'play.png', color: '#666600', word: 'alligator', sound: 'sounds/alligator' },
-    { img: 'play.png', color: '#666600', word: 'fish', sound: 'sounds/fish' },
-    { img: 'play.png', color: '#666600', word: 'marbles', sound: 'sounds/marbles' },
-    { img: 'play.png', color: '#666600', word: 'motorcycle', sound: 'sounds/motorCycle' },
-    { img: 'play.png', color: '#666600', word: 'redalert', sound: 'sounds/redAlert' },
-    { img: 'play.png', color: '#666600', word: 'reverse', sound: 'sounds/reverse' },
-    { img: 'play.png', color: '#666600', word: 'seashorse', sound: 'sounds/seashorse' },
+    { img: 'play.png', color: '#666600', word: 'airleak', sound: 'sounds/airLeak' , wordSound: "words/airLeak"},
+    { img: 'play.png', color: '#666600', word: 'airplantakeoff', sound: 'sounds/airPlanTakeOff' ,wordSound: "words/airPlanTakeOff"},
+    { img: 'play.png', color: '#666600', word: 'amusement', sound: 'sounds/amusement' ,wordSound: "words/amusement"},
+    { img: 'play.png', color: '#666600', word: 'anvilimpact', sound: 'sounds/anvilImpact' ,wordSound: "words/anvilImpact"},
+    { img: 'play.png', color: '#666600', word: 'astronaut', sound: 'sounds/astronaut' ,wordSound: "words/astronaut"},
+    { img: 'play.png', color: '#666600', word: 'axe', sound: 'sounds/axe' ,wordSound: "words/axe"},
+    { img: 'play.png', color: '#666600', word: 'baby', sound: 'sounds/baby' ,wordSound: "words/baby"},
+    { img: 'play.png', color: '#666600', word: 'ballonpop', sound: 'sounds/ballonPop' ,wordSound: "words/ballonPop"},
+    { img: 'play.png', color: '#666600', word: 'bats', sound: 'sounds/bats' ,wordSound: "words/bats"},
+    { img: 'play.png', color: '#666600', word: 'bear', sound: 'sounds/bear' ,wordSound: "words/bear"},
+    { img: 'play.png', color: '#666600', word: 'beer', sound: 'sounds/beer' ,wordSound: "words/beer"},
+    { img: 'play.png', color: '#666600', word: 'bluejay', sound: 'sounds/blueJay' ,wordSound: "words/blueJay"},
+    { img: 'play.png', color: '#666600', word: 'bomb', sound: 'sounds/bomb' ,wordSound: "words/bomb"},
+    { img: 'play.png', color: '#666600', word: 'boxing', sound: 'sounds/boxing' ,wordSound: "words/boxing"},
+    { img: 'play.png', color: '#666600', word: 'campfire', sound: 'sounds/campFire' , wordSound: "words/campFire"},
+    { img: 'play.png', color: '#666600', word: 'canary', sound: 'sounds/canary' , wordSound: "words/canary"},
+    { img: 'play.png', color: '#666600', word: 'canopener', sound: 'sounds/canOpener' , wordSound: "words/canOpener"},
+    { img: 'play.png', color: '#666600', word: 'cardoor', sound: 'sounds/carDoor' , wordSound: "words/carDoor"},
+    { img: 'play.png', color: '#666600', word: 'cat', sound: 'sounds/cat', wordSound: "words/cat" },
+    { img: 'play.png', color: '#666600', word: 'catMeow', sound: 'sounds/catMeow' , wordSound: "words/catMeow"},
+    { img: 'play.png', color: '#666600', word: 'chainsaw', sound: 'sounds/chainSaw' , wordSound: "words/chainSaw"},
+    { img: 'play.png', color: '#666600', word: 'chicks', sound: 'sounds/chicks' , wordSound: "words/chicks"},
+    { img: 'play.png', color: '#666600', word: 'click', sound: 'sounds/click' , wordSound: "words/click"},
+    { img: 'play.png', color: '#666600', word: 'clothesdryer', sound: 'sounds/clothesDryer' , wordSound: "words/clothesDryer"},
+    { img: 'play.png', color: '#666600', word: 'congo', sound: 'sounds/congo' , wordSound: "words/congo"},
+    { img: 'play.png', color: '#666600', word: 'watch', sound: 'sounds/watch' , wordSound: "words/watch"},
+    { img: 'play.png', color: '#666600', word: 'cow', sound: 'sounds/cow' , wordSound: "words/cow"},
+    { img: 'play.png', color: '#666600', word: 'coyotecall', sound: 'sounds/coyoteCall' , wordSound: "words/coyoteCall"},
+    { img: 'play.png', color: '#666600', word: 'crickets', sound: 'sounds/crickets' , wordSound: "words/crickets"},
+    { img: 'play.png', color: '#666600', word: 'crystal', sound: 'sounds/crystal' , wordSound: "words/crystal"},
+    { img: 'play.png', color: '#666600', word: 'deskbell', sound: 'sounds/deskBell' , wordSound: "words/deskBell"},
+    { img: 'play.png', color: '#666600', word: 'dice', sound: 'sounds/dice' , wordSound: "words/dice"},
+    { img: 'play.png', color: '#666600', word: 'djscratching', sound: 'sounds/djScratching' , wordSound: "words/djScratching"},
+    { img: 'play.png', color: '#666600', word: 'dog', sound: 'sounds/dog' , wordSound: "words/dog"},
+    { img: 'play.png', color: '#666600', word: 'dogToy', sound: 'sounds/dogToy' , wordSound: "words/dogToy"},
+    { img: 'play.png', color: '#666600', word: 'dolphin', sound: 'sounds/dolphin' , wordSound: "words/dolphin"},
+    { img: 'play.png', color: '#666600', word: 'doorrustysound', sound: 'sounds/doorRustySound' , wordSound: "words/doorRustySound"},
+    { img: 'play.png', color: '#666600', word: 'duckMallard', sound: 'sounds/duckMallard' , wordSound: "words/duckMallard"},
+    { img: 'play.png', color: '#666600', word: 'earthquake', sound: 'sounds/earthquake' , wordSound: "words/earthquake"},
+    { img: 'play.png', color: '#666600', word: 'elephant', sound: 'sounds/elephant' , wordSound: "words/elephant"},
+    { img: 'play.png', color: '#666600', word: 'elk', sound: 'sounds/elk' , wordSound: "words/elk"},
+    { img: 'play.png', color: '#666600', word: 'ferrari', sound: 'sounds/ferrari' , wordSound: "words/ferrari"},
+    { img: 'play.png', color: '#666600', word: 'firetruck', sound: 'sounds/fireTruck', wordSound: "words/fireTruck" },
+    { img: 'play.png', color: '#666600', word: 'flock', sound: 'sounds/flock', wordSound: "words/flock" },
+    { img: 'play.png', color: '#666600', word: 'forklift', sound: 'sounds/forkLift' , wordSound: "words/forkLift"},
+    { img: 'play.png', color: '#666600', word: 'frogs', sound: 'sounds/frogs', wordSound: "words/frogs" },
+    { img: 'play.png', color: '#666600', word: 'geese', sound: 'sounds/geese' , wordSound: "words/geese"},
+    { img: 'play.png', color: '#666600', word: 'glasspouring', sound: 'sounds/glassPouring' , wordSound: "words/glassPouring"},
+    { img: 'play.png', color: '#666600', word: 'goat', sound: 'sounds/goat' , wordSound: "words/goat"},
+    { img: 'play.png', color: '#666600', word: 'hairdryer', sound: 'sounds/hairDryer', wordSound: "words/hairDryer" },
+    { img: 'play.png', color: '#666600', word: 'heartbeat', sound: 'sounds/heartBeat', wordSound: "words/heartBeat" },
+    { img: 'play.png', color: '#666600', word: 'helicopter', sound: 'sounds/helicopter' , wordSound: "words/helicopter"},
+    { img: 'play.png', color: '#666600', word: 'hippos', sound: 'sounds/hippos' , wordSound: "words/hippos"},
+    { img: 'play.png', color: '#666600', word: 'horse', sound: 'sounds/horse' , wordSound: "words/horse"},
+    { img: 'play.png', color: '#666600', word: 'humpbackwhale', sound: 'sounds/humpbackWhale' , wordSound: "words/humpbackWhale"},
+    { img: 'play.png', color: '#666600', word: 'hyenalaugh', sound: 'sounds/hyenaLaugh' , wordSound: "words/hyenaLaugh"},
+    { img: 'play.png', color: '#666600', word: 'icecube', sound: 'sounds/iceCube' , wordSound: "words/iceCube"},
+    { img: 'play.png', color: '#666600', word: 'iceskating', sound: 'sounds/iceSkating' , wordSound: "words/iceSkating"},
+    { img: 'play.png', color: '#666600', word: 'ilovedaddy', sound: 'sounds/iLoveDaddy' , wordSound: "words/iLoveDaddy"},
+    { img: 'play.png', color: '#666600', word: 'jackHammer', sound: 'sounds/jackHammer' , wordSound: "words/jackHammer"},
+    { img: 'play.png', color: '#666600', word: 'jingle', sound: 'sounds/jingle' , wordSound: "words/jingle"},
+    { img: 'play.png', color: '#666600', word: 'kissing', sound: 'sounds/kissing' , wordSound: "words/kissing"},
+    { img: 'play.png', color: '#666600', word: 'lightbulb', sound: 'sounds/lightbulb' , wordSound: "words/lightbulb"},
+    { img: 'play.png', color: '#666600', word: 'lion', sound: 'sounds/lion' , wordSound: "words/lion"},
+    { img: 'play.png', color: '#666600', word: 'loon', sound: 'sounds/loon' , wordSound: "words/loon"},
+    { img: 'play.png', color: '#666600', word: 'microwave', sound: 'sounds/microWave' , wordSound: "words/microWave"},
+    { img: 'play.png', color: '#666600', word: 'orca', sound: 'sounds/orca' , wordSound: "words/orca"},
+    { img: 'play.png', color: '#666600', word: 'paper', sound: 'sounds/paper' , wordSound: "words/paper"},
+    { img: 'play.png', color: '#666600', word: 'pelican', sound: 'sounds/pelican' , wordSound: "words/pelican"},
+    { img: 'play.png', color: '#666600', word: 'pigsound', sound: 'sounds/pigSound' , wordSound: "words/pigSound"},
+    { img: 'play.png', color: '#666600', word: 'pingpong', sound: 'sounds/pingPong' , wordSound: "words/pingPong"},
+    { img: 'play.png', color: '#666600', word: 'policesiren', sound: 'sounds/policeSiren' , wordSound: "words/policeSiren"},
+    { img: 'play.png', color: '#666600', word: 'radio', sound: 'sounds/radio' , wordSound: "words/radio"},
+    { img: 'play.png', color: '#666600', word: 'rex', sound: 'sounds/rex' , wordSound: "words/rex"},
+    { img: 'play.png', color: '#666600', word: 'rolldice', sound: 'sounds/rollDice' , wordSound: "words/rollDice"},
+    { img: 'play.png', color: '#666600', word: 'rooster', sound: 'sounds/rooster' , wordSound: "words/rooster"},
+    { img: 'play.png', color: '#666600', word: 'seagullcall', sound: 'sounds/seagullCall' , wordSound: "words/seagullCall"},
+    { img: 'play.png', color: '#666600', word: 'sewingmachine', sound: 'sounds/sewingMachine' , wordSound: "words/sewingMachine"},
+    { img: 'play.png', color: '#666600', word: 'skorpian', sound: 'sounds/skorpian' , wordSound: "words/skorpian"},
+    { img: 'play.png', color: '#666600', word: 'snake', sound: 'sounds/snake' , wordSound: "words/snake"},
+    { img: 'play.png', color: '#666600', word: 'splat', sound: 'sounds/splat' , wordSound: "words/splat"},
+    { img: 'play.png', color: '#666600', word: 'spooky', sound: 'sounds/spooky' , wordSound: "words/spooky"},
+    { img: 'play.png', color: '#666600', word: 'stampede', sound: 'sounds/stampede' , wordSound: "words/stampede"},
+    { img: 'play.png', color: '#666600', word: 'stantaclause', sound: 'sounds/stantaClause' , wordSound: "words/stantaClause"},
+    { img: 'play.png', color: '#666600', word: 'staplegun', sound: 'sounds/stapleGun' , wordSound: "words/stapleGun"},
+    { img: 'play.png', color: '#666600', word: 'thunderstorm', sound: 'sounds/thunderStorm' , wordSound: "words/thunderStorm"},
+    { img: 'play.png', color: '#666600', word: 'trafficejam', sound: 'sounds/trafficeJam' , wordSound: "words/trafficeJam"},
+    { img: 'play.png', color: '#666600', word: 'tundraswans', sound: 'sounds/tundraSwans' , wordSound: "words/tundraSwans"},
+    { img: 'play.png', color: '#666600', word: 'turkey', sound: 'sounds/turkey' , wordSound: "words/turkey"},
+    { img: 'play.png', color: '#666600', word: 'whistle', sound: 'sounds/whistle' , wordSound: "words/whistle"},
+    { img: 'play.png', color: '#666600', word: 'wolf', sound: 'sounds/wolf' , wordSound: "words/wolf"},
+    { img: 'play.png', color: '#666600', word: 'woodpcker', sound: 'sounds/woodPecker' , wordSound: "words/woodPecker"},
+    { img: 'play.png', color: '#666600', word: 'wrapper', sound: 'sounds/wrapper' , wordSound: "words/wrapper"},
+    { img: 'play.png', color: '#666600', word: 'Zebracall', sound: 'sounds/ZebraCall' , wordSound: "words/ZebraCall"},
+    { img: 'play.png', color: '#666600', word: 'alligator', sound: 'sounds/alligator' , wordSound: "words/alligator"},
+    { img: 'play.png', color: '#666600', word: 'fish', sound: 'sounds/fish' , wordSound: "words/fish"},
+    { img: 'play.png', color: '#666600', word: 'marbles', sound: 'sounds/marbles', wordSound: "words/marbles" },
+    { img: 'play.png', color: '#666600', word: 'motorcycle', sound: 'sounds/motorCycle' , wordSound: "words/motorCycle"},
+    { img: 'play.png', color: '#666600', word: 'redalert', sound: 'sounds/redAlert' , wordSound: "words/redAlert"},
+    { img: 'play.png', color: '#666600', word: 'reverse', sound: 'sounds/reverse' , wordSound: "words/reverse"},
+    { img: 'play.png', color: '#666600', word: 'seashorse', sound: 'sounds/seashorse' , wordSound: "words/seashorse"},
 ];
 // the array for the program. //question?
 var games = questions.sort(function () { return Math.random() < 0.5 ? -1 : 1 });
 
 var winsound = new buzz.sound('sounds/winsound', {
     formats: ["mp3"]
-}),
+}).setVolume(0.95),
     errorSound = new buzz.sound('sounds/error', {
         formats: ["mp3"]
     }),
@@ -129,7 +129,8 @@ var winsound = new buzz.sound('sounds/winsound', {
     scoreKK = 0, // this variable for scoreing
     ez = true,// this is the variable used to dertemine the level -- easy or hard
     scoreK, // varible for scoring
-    gameSound;
+    gameSound,
+    gameWord;
     
     var NumOfQues = games.length; // variable for the number of spelling words 
 var scoreTotal = NumOfQues * 10;// variable for raw score. each answer is worth 10 point
@@ -139,7 +140,7 @@ for (var i in alphabet) {
     var letter = alphabet[i];
     alphabetSounds[letter] = new buzz.sound('sounds/kid/' + letter, {
         formats: ["mp3"]
-    });// this loads the alphabet array into the letter variable
+    }).setVolume(0.95);// this loads the alphabet array into the letter variable
 }
 var idx = 0,
         $container = $('#container'), // this creates the variablea for the div in the index.html file
@@ -206,8 +207,55 @@ $(function () {
         gameSound = new buzz.sound(game.sound, {
             formats: ["mp3"]
         });
-        gameSound.load().play();
+        gameWord = new buzz.sound(game.wordSound,{
+            formats:["mp3"]
+        })
 
+
+        gameSound.setVolume(0.9);
+        gameWord.setVolume(100);
+        gameWord.bind("ended", function(){
+            gameSound.load().play(); 
+        })
+
+        gameWord.load().play();
+        // gameSound.load().play();
+        // setTimeout
+        // setTimeout(function(){
+        //     gameSound.load().play();
+        // }, gameWord.getDuration() *10000);
+
+
+        // while( ! gameSound.isEnded() ){
+        // }
+
+        // if( gameSound.isEnded() ){
+        //      console.log("sound has ended") 
+        //     }else{ console.log("it has not ended")}
+
+        // let myG = new buzz.group([gameWord, gameSound]);
+        // buzz.all().play();
+
+        // setTimeout(() => {
+        //      gameSound.load().play()
+        // }, 3000);
+
+        // let p = new Promise(function(resolve , reject){
+            
+        //     setTimeout(()=>{gameWord.load().play()}, 3000)
+        //         resolve();
+        //     });
+        //     p.then(function(){
+        //             gameSound.load().play();
+        //         })
+                
+        // play();
+        // async function play(){
+        //     await gameWord.load().play();
+        //     await gameSound.load().play()
+        // }
+        
+        
 
         $('body').stop().animate({
             backgroundColor: game.color
